@@ -1,0 +1,20 @@
+0	Köln					P		DE						10
+1	Köln					P		FR						5
+2	Köln					P		IT						8
+3	Köln					P		TE						3
+4	NoName					!		TE						12
+5	Freiburg					P		DE						1
+6	Freiburg					P		US						5
+7	Freiburg					P		IT						5
+8	Fruiburg					P		CH						1
+9	Fruiburg					P		US						5
+10	Fruiburg					P		IT						5
+11	Berlin					P		DE						4
+12	Offenburg					P		DE						6
+13	Neuenburg					P		DE						7
+14	Bremen					P		DE						0
+15	Friburg					P		DE						3
+16	Friburg					P		US						78
+17	SomeCity					P		TE						3
+# Daten:
+# 11 Städte
